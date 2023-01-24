@@ -1,0 +1,22 @@
+.header {
+	padding: 7px 0;
+	background-color: blueviolet;
+}
+
+.header__menu {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.nav__list {
+	display: flex;
+	justify-content: space-between;
+	gap: 25px;
+}
+
+.header__social {
+	display: flex;
+	justify-content: space-between;
+	gap: 15px;
+}
